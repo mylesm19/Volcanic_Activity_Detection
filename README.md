@@ -1,4 +1,4 @@
-# Volcaninc Activity Detection
+# Volcanic Activity Detection
 Authors 
 Myles Mason, John Wenskovitch, D. Sarah Stamps, Joshua Robert Jones, Mike Dye
 
